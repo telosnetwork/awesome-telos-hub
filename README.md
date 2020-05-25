@@ -8,21 +8,16 @@
 ## Contents
 
 - [Official](#official)
-- [Block.One](#block-one)
 - [Community Projects](#community-projects)
 - [Community Forums](#community-forums)
-- [EOS Telegram Channels](#eos-telegram-channels)
+- [TELOS Telegram Channels](#telos-telegram-channels)
 - [Meetups](#meetups)
 - [YouTube Channels](#youtube-channels)
-- [Steemit Accounts to follow](#steemit-accounts-to-follow)
 - [Wallets](#wallets)
 - [Presentations](#presentations)
-- [Token Registration Step by Step guides](#token-registration-step-by-step-guides)
 - [Block Producer info](#block-producer-info)
 - [Block Producer Candidates](#block-producer-candidates)
 - [Testnets](#testnets)
-- [EOS related Content](#eos-related-content)
-- [Latest EOS Content](#latest-eos-content)
 
 ## Why TELOS?
 
@@ -36,28 +31,17 @@
 
 ## Community Projects
 
-- [EOS Scholar Testnet](https://scholar.eosnation.io/)[ / Intro post](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet)[ / GitHub](https://github.com/ScholarTestnet) / [Telegram](https://t.me/ScholarTestnet) - Educational material to Block Producers involved in the EOS Testnet
-- [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
-- [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
-- [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
 - [Block'tivity](https://blocktivity.info/) - The real value of Blockchains
 - [EOS Authority](https://eosauthority.com/) - This tool will also help you make sure that the public key with EOS is also registered correctly.
-- [EOS Tracker](http://eostracker.io/)[ / Introduction post](https://steemit.com/eos/@kesarito/introducing-eos-tracker-real-time-viewer-for-eos-blockchain) - EOS Block Explorer
-- [EOS Projects](https://eosprojects.org/)[ / Introduction post](https://steemit.com/eos/@tokenika/introducing-eos-projects-a-directory-of-apps-sites-and-tools-built-by-eos-community) - Directory of Projects based around EOS
+- [TELOS Tracker](https://telostracker.io/) - TELOS Block Explorer
 - [Scatter](https://get-scatter.com/)[Telegram](https://t.me/Scatter) [Scatter Dev Telegram](https://t.me/ScatterDevelopers) - Desktop Wallet and key Vault  
-- [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices
-- [Eosio.SG Testnet](https://github.com/eosiosg/testnet_monitor) - Eosio.SG testnet monitor
-- [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO
 - [Go to table of content](#contents)
 
 ## Community Forums
 
 - [EOS Go](https://forums.eosgo.io/)
+- [Reddit](https://www.reddit.com/r/telos/)
 - [EOS Talk](https://eostalk.io)
-- [EOS Forum](https://eosforum.org/)
-- [Reddit](https://www.reddit.com/r/eos/)
-- [EOS Talk](https://eostalk.io)
-- [Discord Channel](http://eos.social/)
 
 ## TELOS Telegram Channels (Download [Bettergram)](https://bettergram.io/) 
 
