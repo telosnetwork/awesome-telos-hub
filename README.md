@@ -21,7 +21,7 @@
 
 ## Why TELOS?
 
-
+Telos is a high-speed, high-capacity smart contract platform that charges no gas fees. Telos has created unique features including the world's most advanced blockchain-based governance engine, Telos Decide™ and upcoming features such as dStor decentralized cloud storage, Telos EVM Ethereum smart contract accelerator, Telos Profiles, Telos Location and Telos Private among others. Telos continuously creates new innovations to bring blockchain closer to mass adoption reality.
 
 ## Official
 
@@ -141,7 +141,8 @@
 ## Block Producer Candidates
 
 **Complete EOS Go BP list** 
-- [TelosGreen](https://telosgreen.com)
+- [GoodBlock](https://goodblock.io/)
+- [TelosGreen](https://telosgreen.com/)
 - [EOS Detroit](http://eosdetroit.com/)
 - [Crypto Lions](http://cryptolions.io/)
 - [Go to table of content](#contents)
